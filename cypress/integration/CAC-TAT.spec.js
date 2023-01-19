@@ -138,19 +138,14 @@ describe('Central de Atendimento ao Cliente TAT', function() {
 
 })
 
-//  Aula08:https://github.com/wlsf82/cypress-basico-v2/blob/main/lessons/08.md
+// Aula08:https://github.com/wlsf82/cypress-basico-v2/blob/main/lessons/08.md
+// Apenas configurar o arquivo package.json mudando o tamanho da execução simulando a pagina web pelo mobile
    
-    it ('', function(){
-       
 
-})
+// Aula 09:https://github.com/wlsf82/cypress-basico-v2/blob/main/lessons/09.md
+// Arrumando o arquivo README.md para criar minha própria documentação do projeto. 
 
-    it ('', function(){
-
-    })
-
-
-
+// 
 
 
 })
