@@ -12,7 +12,7 @@ Nesta seção, explico sobre uma ou mais situações comuns encontradas no mundo
 
 > 👨‍🏫 No caso acima, por exemplo, eu citaria a funcionalidade [`.selectFile()`](https://docs.cypress.io/api/commands/selectfile), com exemplos de seu uso.
 >
-> Veremos tal funcionalidade com detalhes na [aula 6](./06.md).
+> Veremos tal funcionalidade com detalhes na [aula 6](./06.md). 
 ## Conteúdos sugeridos e links para documentação
 
 Em várias das aulas, também há seções de conteúdos sugeridos, além de links para documentações oficiais, para que você tenha recursos auxiliares para consulta.

@@ -9,7 +9,7 @@ Neste mesmo [repositório](https://github.com/wlsf82/cypress-basico-v2), você e
 Vamos recapitular o que você aprendeu?
 
 No curso de testes automatizados com Cypress (básico), você aprendeu:
-
+ 
 - Como configurar um projeto Cypress do zero ✔️
 - Como visitar páginas locais e remotas ✔️
 - Como lidar com os elementos mais comuns encontrados em aplicações web ✔️

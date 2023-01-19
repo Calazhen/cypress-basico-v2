@@ -24,6 +24,6 @@ Durante o curso de testes automatizados com Cypress (básico), você vai aprende
 
 Vá para a seção [estrutura do curso](./_course-structure_.md).
 
-___
+___ 
 
 Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).

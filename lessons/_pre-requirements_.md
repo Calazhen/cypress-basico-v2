@@ -15,7 +15,7 @@ Antes de começar, garanta que os seguintes sistemas estejam instalados em seu c
 > **Obs. 3:** Para verificar as versões do git, Node.js e npm instaladas em seu computador, execute o comando `git --version && node --version && npm --version` no seu terminal de linha de comando.
 >
 > **Obs. 4:** Deixei links para os instaladores na lista de requisitos acima, caso não os tenha instalados ainda.
-
+ 
 ___
 
 Legal, os pre-requisitos estão prontos. ☑️
