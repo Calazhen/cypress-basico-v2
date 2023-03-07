@@ -11,8 +11,9 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v2 
         
-    on: push
+    
 name: Slack Notification 
+on: push
 jobs:
   slackNotification:
     name: Slack Notification
