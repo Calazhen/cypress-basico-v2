@@ -1,4 +1,5 @@
 - name: Enviar Notificação - Sucesso
+  on: [push]
   uses: rtCamp/action-slack-notify@v2.2.0
   if: ${{sucess()}}
   envi:
